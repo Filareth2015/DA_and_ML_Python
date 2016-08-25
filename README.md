@@ -1,3 +1,6 @@
-# Data Analysis and Machine Learning in Python
+# Машинное обучение и анализ данных в Python
 
-Here I'm collecting machine learning (ML) and data analysis (DA) tasks that I've done in Python.
+Здесь я собираю задачи машинного обучения и анализа данных, выполненные мной.
+
+Базовый Python, который может пригодиться для решения задач машинного обучения и анализа данных см. [здесь](https://github.com/Filareth2015/DA_and_ML_Python_Basics)      
+
